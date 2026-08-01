@@ -1,3 +1,3 @@
 # New Project
 This is created by local system.
-Created by "Mahesh Sharma".
+It is done by "Mahesh Sharma".
